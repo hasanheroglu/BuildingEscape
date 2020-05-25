@@ -1,0 +1,11 @@
+{
+	"files.exclude": {
+		"/Users/hasan/Desktop/LearnUnreal/BuildingEscape/Saved": true,
+		"/Users/hasan/Desktop/LearnUnreal/BuildingEscape/cmake-build-debug": true,
+		"/Users/hasan/Desktop/LearnUnreal/BuildingEscape/Content": true,
+		"/Users/hasan/Desktop/LearnUnreal/BuildingEscape/.git": true,
+		"/Users/hasan/Desktop/LearnUnreal/BuildingEscape/.vscode": true,
+		"/Users/hasan/Desktop/LearnUnreal/BuildingEscape/Intermediate": true,
+		"/Users/hasan/Desktop/LearnUnreal/BuildingEscape/.idea": true
+	}
+}
