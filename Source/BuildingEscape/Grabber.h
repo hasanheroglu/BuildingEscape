@@ -7,6 +7,10 @@
 #include "PhysicsEngine/PhysicsHandleComponent.h"
 #include "Grabber.generated.h"
 
+struct FPlayerViewPoint{
+	FVector Location;
+	FRotator Rotation;
+};
 
 UCLASS( ClassGroup=(Custom), meta=(BlueprintSpawnableComponent) )
 class BUILDINGESCAPE_API UGrabber : public UActorComponent
@@ -25,10 +29,14 @@ protected:
 	virtual void BeginPlay() override;
 
 private:
+
     UPROPERTY(EditAnywhere)
     float Reach = 100.f;
 
+	UPROPERTY()
     UPhysicsHandleComponent* PhysicsHandle = nullptr;
+
+	UPROPERTY()
 	UInputComponent* InputComponent = nullptr;
 
 	void Grab();
@@ -36,4 +44,6 @@ private:
 	void FindPhysicsHandle();
 	void SetupInputComponent();
 	FHitResult GetFirstPhysicsBodyInReach() const;
+	FPlayerViewPoint GetPlayerViewPoint() const;
+	FVector GetPlayersReach() const;
 };
