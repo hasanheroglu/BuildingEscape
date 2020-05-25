@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/FakeTarget.dir/Source/BuildingEscape/BuildingEscape.cpp.o"
   "CMakeFiles/FakeTarget.dir/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp.o"
+  "CMakeFiles/FakeTarget.dir/Source/BuildingEscape/Grabber.cpp.o"
+  "CMakeFiles/FakeTarget.dir/Source/BuildingEscape/OpenDoor.cpp.o"
   "CMakeFiles/FakeTarget.dir/Source/BuildingEscape/WorldPosition.cpp.o"
   "CMakeFiles/FakeTarget.dir/Users/Shared/Epic_Games/UE_4.24/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/GroupedSpriteSceneProxy.cpp.o"
   "CMakeFiles/FakeTarget.dir/Users/Shared/Epic_Games/UE_4.24/Engine/Plugins/2D/Paper2D/Source/Paper2D/Private/Paper2DModule.cpp.o"

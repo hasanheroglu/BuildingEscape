@@ -20,37 +20,37 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="UE4" targetName="UE4Game-TVOS-Shipping" />
-      <config projectName="UE4" targetName="UE4Game-Mac-Shipping" />
-      <config projectName="UE4" targetName="UE4Game-TVOS-DebugGame" />
       <config projectName="UE4" targetName="BuildingEscapeEditor-IOS-Shipping" />
-      <config projectName="UE4" targetName="BuildingEscapeEditor-Mac-Shipping" />
-      <config projectName="UE4" targetName="UE4Game-IOS-Shipping" />
       <config projectName="UE4" targetName="FakeTarget" />
-      <config projectName="UE4" targetName="BuildingEscapeEditor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BuildingEscape-IOS" />
-      <config projectName="UE4" targetName="BuildingEscape-IOS-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-IOS" />
-      <config projectName="UE4" targetName="BuildingEscapeEditor" />
-      <config projectName="UE4" targetName="UE4Game-Mac-DebugGame" />
-      <config projectName="UE4" targetName="BuildingEscapeEditor-IOS-DebugGame" />
-      <config projectName="UE4" targetName="UE4Editor-Mac-Shipping" />
-      <config projectName="UE4" targetName="BuildingEscapeEditor-TVOS-Shipping" />
-      <config projectName="UE4" targetName="BuildingEscape-Mac-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game" />
+      <config projectName="UE4" targetName="UE4Game-TVOS-Shipping" />
+      <config projectName="UE4" targetName="BuildingEscapeEditor-TVOS" />
       <config projectName="UE4" targetName="UE4Editor" />
       <config projectName="UE4" targetName="BuildingEscapeEditor-IOS" />
-      <config projectName="UE4" targetName="BuildingEscape-Mac-Shipping" />
+      <config projectName="UE4" targetName="BuildingEscapeEditor-Mac-DebugGame" />
       <config projectName="UE4" targetName="BuildingEscapeEditor-TVOS-DebugGame" />
-      <config projectName="UE4" targetName="BuildingEscape" />
-      <config projectName="UE4" targetName="BuildingEscapeEditor-TVOS" />
-      <config projectName="UE4" targetName="UE4Editor-Mac-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game-IOS-DebugGame" />
-      <config projectName="UE4" targetName="BuildingEscape-IOS-Shipping" />
       <config projectName="UE4" targetName="BuildingEscape-TVOS" />
-      <config projectName="UE4" targetName="BuildingEscape-TVOS-DebugGame" />
-      <config projectName="UE4" targetName="UE4Game" />
+      <config projectName="UE4" targetName="BuildingEscape-IOS" />
       <config projectName="UE4" targetName="BuildingEscape-TVOS-Shipping" />
+      <config projectName="UE4" targetName="BuildingEscape-Mac-Shipping" />
+      <config projectName="UE4" targetName="BuildingEscapeEditor-TVOS-Shipping" />
+      <config projectName="UE4" targetName="BuildingEscapeEditor-IOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-TVOS-DebugGame" />
+      <config projectName="UE4" targetName="BuildingEscapeEditor-Mac-Shipping" />
+      <config projectName="UE4" targetName="UE4Game-Mac-Shipping" />
+      <config projectName="UE4" targetName="BuildingEscape-IOS-DebugGame" />
+      <config projectName="UE4" targetName="BuildingEscape-IOS-Shipping" />
+      <config projectName="UE4" targetName="BuildingEscapeEditor" />
+      <config projectName="UE4" targetName="BuildingEscape-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BuildingEscape" />
+      <config projectName="UE4" targetName="UE4Game-IOS-DebugGame" />
+      <config projectName="UE4" targetName="UE4Game-IOS" />
+      <config projectName="UE4" targetName="UE4Game-IOS-Shipping" />
+      <config projectName="UE4" targetName="UE4Editor-Mac-DebugGame" />
+      <config projectName="UE4" targetName="BuildingEscape-TVOS-DebugGame" />
       <config projectName="UE4" targetName="UE4Game-TVOS" />
+      <config projectName="UE4" targetName="UE4Game-Mac-DebugGame" />
+      <config projectName="UE4" targetName="UE4Editor-Mac-Shipping" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -60,41 +60,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1540780b-163c-4a90-b469-d3894cea2628" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/BuildingEscape.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Ceiling_Mat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Door_Frame_Material.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Door_Material.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Floor_Mat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/MI_Ceiling.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/MI_Door.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/MI_Door_Frame.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/MI_Floor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/MI_Wall.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/M_Brass.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/M_Mediterranean_Wood.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/M_Stone.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/M_White_Stone.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/M_Wood.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/T_Mediterranean_Wood_BC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/T_Stone_BC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/T_White_Stone_BC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/T_Wood_BC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Wall_Mat.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/SM_Door.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Content/CourseContent/Models/SM_Door_Frame.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/BuildingEscape/WorldPosition.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Source/BuildingEscape/WorldPosition.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuildingEscape.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/BuildingEscape.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/BuildingEscapeGameModeBase_BP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Content/Blueprints/DefaultPawn_BP.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/BuildingEscape/Grabber.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Source/BuildingEscape/Grabber.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/BuildingEscape.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/BuildingEscape.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Maps/Minimal_Default.umap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BuildingEscape/BuildingEscapeGameModeBase.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Ceiling_Mat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Door_Frame_Material.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Door_Material.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Floor_Mat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CourseContent/Models/Materials/Wall_Mat.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CourseContent/Models/SM_Door.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CourseContent/Models/SM_Door.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/CourseContent/Models/SM_Door_Frame.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/CourseContent/Models/SM_Door_Frame.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Maps/BuildingEscape.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Maps/BuildingEscape.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/BuildingEscape/OpenDoor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects10.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects10.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects11.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects11.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects12.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects12.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects2.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects2.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects3.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects3.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects4.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects4.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects5.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects5.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects6.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects6.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects7.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects7.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects8.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects8.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects9.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/objects9.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/FakeTarget.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/UE4.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/UE4.cbp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +107,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -214,7 +218,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuildingEscapeEditor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="BuildingEscapeEditor">
+    <configuration name="BuildingEscapeEditor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="UE4" TARGET_NAME="BuildingEscapeEditor" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -335,6 +339,11 @@
       <workItem from="1590392631950" duration="1800000" />
       <workItem from="1590394554588" duration="23000" />
       <workItem from="1590397395086" duration="685000" />
+      <workItem from="1590398168579" duration="454000" />
+      <workItem from="1590400781455" duration="365000" />
+      <workItem from="1590402428612" duration="8184000" />
+      <workItem from="1590424686776" duration="169000" />
+      <workItem from="1590424889239" duration="1503000" />
     </task>
     <servers />
   </component>
